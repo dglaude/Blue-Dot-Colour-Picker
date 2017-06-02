@@ -1,7 +1,7 @@
 # Blue-Dot-Colour-Picker
 Use Blue Dot library to control the colour off LEDs
 
-Blue Dot Colour Picker rely on Blue Dot Library from by `Martin O'Hanlon`_, `@martinohanlon`_, `stuffaboutco.de`_.
+Blue Dot Colour Picker rely on Blue Dot Library from by [Martin O'Hanlon](stuffaboutco.de) @martinohanlon.
 
 You need to install the [Blue Dot library](https://github.com/martinohanlon/BlueDot).
 
