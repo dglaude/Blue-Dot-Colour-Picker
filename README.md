@@ -1,9 +1,7 @@
 # Blue-Dot-Colour-Picker
 Use Blue Dot library to control the colour off LEDs
 
-Blue Dot Colour Picker rely on Blue Dot Library from by [Martin O'Hanlon](http://stuffaboutco.de/) @martinohanlon.
-
-You need to install the [Blue Dot library](https://github.com/martinohanlon/BlueDot).
+Blue Dot Colour Picker rely on [Blue Dot library](https://github.com/martinohanlon/BlueDot) from by [Martin O'Hanlon](http://stuffaboutco.de/) @martinohanlon.
 
 The you need some hardware with RGB LED that is already supported:
 * [Pimoroni Blinkt!](https://shop.pimoroni.com/products/blinkt) with it's [library](https://github.com/pimoroni/blinkt) Please use blinktCP.py.
