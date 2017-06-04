@@ -12,8 +12,9 @@ import blinkt
 last_time = time.time()
 
 def setall(r,g,b):
-    for x in range(blinkt.NUM_PIXELS):
-        blinkt.set_pixel(x, r, g, b)
+#    for x in range(blinkt.NUM_PIXELS):
+#        blinkt.set_pixel(x, r, g, b)
+    blinkt.set_all(r, g, b)
     blinkt.show()
 
 def move(pos):
