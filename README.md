@@ -15,3 +15,13 @@ Click the Blue Dot to turn LEDs on.
 Swipe to select your prefered colour for the mood.
 Double click turn off your LEDs.
 
+## New version
+
+blinkt_rainbow.py is an new version adapted to use when_double_pressed from version 1.0 of Blue Dot library.
+
+Changes compare to blinktCP.py:
+* When a client connect, it display a rainbow.
+* A simple touch without move does not change the colour.
+* To change the colour you have to move your finger after the click.
+* Double click turn the LEDs off
+
